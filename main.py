@@ -6,10 +6,10 @@ import telebot
 app = Flask(__name__)
 BOT_TOKEN = "8248448968:AAHtMpdDezPtW9knCFU2x_y4EFKwYUG6o5g"
 bot = telebot.TeleBot(BOT_TOKEN)
-ADMIN_ID = "8173349543"
+ADMIN_ID = "7561963021"
 
 # لینک پایه سایت شما در ریلیوی
-BASE_URL = "https://Determined-illumination-production-7799.up.railway.app"
+BASE_URL = "https://mynewbot6-production.up.railway.app"
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>
